@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "custom-tab-layout"
 include ':app'
+include ':tablayout'
